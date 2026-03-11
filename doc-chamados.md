@@ -1,12 +1,13 @@
 
-# Arquivo principal #
+## Arquivo principal ##
 Leitura20250101PDFi.script
 
-# Função principal #
+## Função principal ##
 leituraBalancetes
 
-# Para testar contabilidade especifica, descomentar #
+## Para testar contabilidade especifica, descomentar ##
 roteiroCRM.put("contabilidade", "Onboard");
+
 
 Problema: O sistema pegava por padrão a data de competencia.
 Origem do problema: Externa, cliente gostaria de uma tratativa personalizada.
