@@ -8,7 +8,6 @@ leituraBalancetes
 ## Para testar contabilidade especifica, descomentar ##
 roteiroCRM.put("contabilidade", "Onboard");
 
-<br><br>
 ### Retorno chamados ###
 Problema: O sistema pegava por padrão a data de competencia.
 Origem do problema: Externa, cliente gostaria de uma tratativa personalizada.
