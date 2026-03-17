@@ -1,0 +1,1 @@
+Problema: O sistema pegava por padrão a data de competencia. Origem do problema: Externa, cliente gostaria de uma tratativa personalizada. Solução: Ajustado o tratamento para pegar a data de publicação para a competencia Paliativo: não
