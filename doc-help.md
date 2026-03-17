@@ -88,7 +88,7 @@ PASSO A PASSO CHAMADOS INOUT SERVER
 21 - Tire print de tudo que foi processado no inout, só os que você processou
 22 - Vá no chamado e anexe os prints
 23 - Responda o chamado assim:
-(Gustavo Alves - 16/03/2026)
+(Nome Pessoa - Data Completa)
 
 Olá, foi reprocessado os logs, segue print em anexo
 24 - Feito
@@ -169,10 +169,10 @@ Tipo de View: ordemservico
 Olá, foi criado e liberado as views padrões, conforme pedido pelo cliente. 
 
 Tipo de View: OrdemServicos
-Usuário: user_bertolini
-Senha: 2C78AA761395F251B09F8927682389123DD33535324
-HOST: ottimizza-reader-prd.cje60wgquvok.us-east-2.rds.amazonaws.com
-Banco: dc66sahgnjnnfr
+Usuário: usuario_view
+Senha: senha_view
+HOST: link_host
+Banco: banco
 Porta: 5432 
 Schema para uso VIEW: ottimizza_clientes
 
@@ -187,4 +187,5 @@ inout server: http://s1.ottimizza.com.br:8055/inout/
 inout local: http://localhost:8055/inout/
 github io_contabil: https://github.com/Tareffa/Tareffa-io_contabil
 jira tareffa: https://ottimizza.atlassian.net/jira/software/c/projects/TAR/boards/6
+
 
